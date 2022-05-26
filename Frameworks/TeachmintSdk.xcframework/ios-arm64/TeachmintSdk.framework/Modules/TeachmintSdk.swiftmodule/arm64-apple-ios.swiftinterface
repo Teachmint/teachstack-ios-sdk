@@ -23,17 +23,17 @@ public protocol TeachmintRoomViewDelegate {
   func onMeetingEnded(reason: Swift.String, recording: Swift.Bool, study_material: Swift.Bool, session_id: Swift.String?)
   func trackEvent(eventName: Swift.String, eventData: [Swift.String : Swift.String])
 }
-final public class screenShareBuilder {
-  public init(suiteName: Swift.String)
-  final public func startShare(_ instance: ReplayKit.RPBroadcastSampleHandler)
-  final public func stopShare()
-  final public func processBuffer(_ sampleBuffer: CoreMedia.CMSampleBuffer, with sampleBufferType: ReplayKit.RPSampleBufferType)
-  @objc deinit
-}
 public struct TMEvaasBuilder : SwiftUI.View {
   public init(delegate: TeachmintSdk.TeachmintRoomViewDelegate?, suiteName: Swift.String?, url: Swift.String, language: Swift.String, host: Swift.String)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }
   public typealias Body = @_opaqueReturnTypeOf("$s12TeachmintSdk14TMEvaasBuilderV4bodyQrvp", 0) __
+}
+final public class screenShareBuilder {
+  public init(suiteName: Swift.String)
+  final public func startShare(_ instance: ReplayKit.RPBroadcastSampleHandler)
+  final public func stopShare()
+  final public func processBuffer(_ sampleBuffer: CoreMedia.CMSampleBuffer, with sampleBufferType: ReplayKit.RPSampleBufferType)
+  @objc deinit
 }

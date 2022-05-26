@@ -13,6 +13,6 @@ FOUNDATION_EXPORT double Teachmint_ios_sdkVersionNumber;
 //! Project version string for Teachmint_ios_sdk.
 FOUNDATION_EXPORT const unsigned char Teachmint_ios_sdkVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <Teachmint_ios_sdk/PublicHeader.h>
+// In this header, you should import all the  headers of your framework using statements like #import <Teachmint_ios_sdk/Header.h>
 
 
