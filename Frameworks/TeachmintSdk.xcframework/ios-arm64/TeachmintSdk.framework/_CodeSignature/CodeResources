@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		9k3yZ8qwHyjqymUf/3+AQC+67fU=
+		zN/rUsc336qgVb8/PMLXDrXxhZc=
 		</data>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2Y/ehAXOcU9tqK2CE6Qni8M6PlQ=
+		p8GGh0qdg2YU6dYycEMbVCQNJik=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -52,7 +52,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jo/kbXg7LJj0neTSLq91mxYtnQxohkZRvkicXDnL7OE=
+			tU2woXdopuINe0Rvi6NYxdxr8Uf7po9rZZW/t6xEoIA=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk-Swift.h</key>
@@ -87,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B9Vm/CKHKL6mPoXlKPCnoSKwuOH8jEFGbRHxePT1t9o=
+			CgGI/Cgzt6Ua9rtAm0bdlEMAMyyaOhqLJnKSpwF6ISI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
