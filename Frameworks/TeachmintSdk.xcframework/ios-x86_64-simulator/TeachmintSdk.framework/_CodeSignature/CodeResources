@@ -6,7 +6,19 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		myfcYcg2fZIXX6pL61Wlv4Gwwyg=
+		EGqr06P03l8ggrQAhPHt6D/BvNQ=
+		</data>
+		<key>Frameworks/WebRTC.framework/Info.plist</key>
+		<data>
+		/zlHzk1T019ktHVgvddfuXLsvJg=
+		</data>
+		<key>Frameworks/WebRTC.framework/WebRTC</key>
+		<data>
+		BrPyE/w4MdjpHIiMt1eIfaJPw0U=
+		</data>
+		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
+		<data>
+		KV1LPLrJJwHFpvlU7SoC266EMgU=
 		</data>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<data>
@@ -18,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		z2na36pM8Om05eG79iNGIwKV9Y4=
+		yTJiLJH5Mu8RACQUNoOwJDItoP4=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +42,7 @@
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Cqt7bcypQ2nTpjmiVT8BBekfWkM=
+		VoJsVZwzmGEL8yuBcbd60j9O0js=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -52,7 +64,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DSj0XmBs12GcXnWLRRSbzbwtngSC5ixYOySW85i6iWw=
+			5DkAOw0g8nzo8tgZ0cBi8vNf+j+GRt6fs6lqmRGrqNg=
+			</data>
+		</dict>
+		<key>Frameworks/WebRTC.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3AXUhg7Q1Nsq5Jyr87J5fc4xUNr1qrS7EMHBSJoocrU=
+			</data>
+		</dict>
+		<key>Frameworks/WebRTC.framework/WebRTC</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r4qNm/IQ5dXQXU/1V1BGzlTE71DiM6Dl54bGyPY/na8=
+			</data>
+		</dict>
+		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LMXQ4huRjTDmKMla0T86V1ASb25opLOq6+czzgvwXd8=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk-Swift.h</key>
@@ -87,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dk+U+/stxYX7XMBXKHa+DP+5wflSIw23LYa4fTErtfs=
+			IRo2o+5OLtgM7fN5SZC2sDWv+jy0OGJSdd5xSPiYSL4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
