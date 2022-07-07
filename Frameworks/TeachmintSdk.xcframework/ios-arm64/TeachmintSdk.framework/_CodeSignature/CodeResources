@@ -6,19 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ZmoBiKWTrZ89Xs4sRJD1rAkcU/w=
-		</data>
-		<key>Frameworks/WebRTC.framework/Info.plist</key>
-		<data>
-		eI5wBn1OTEPSwl33z6jkyAGQ8AE=
-		</data>
-		<key>Frameworks/WebRTC.framework/WebRTC</key>
-		<data>
-		mrzYr0ZImT+ml/nANrIQuOOTQqw=
-		</data>
-		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
-		<data>
-		6odthJtYxdsiUmMlXMACHBS1zEM=
+		oc7LW6s8cisuFKofWbv/cXzGi8I=
 		</data>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<data>
@@ -64,28 +52,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2nbanP0Mbj1F5x6w5Web+r9PRc0PnXXswG/uVAkhQH0=
-			</data>
-		</dict>
-		<key>Frameworks/WebRTC.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			27UXKPIPLEqNkZuyxTLRWL8x1LxYaDRUS3u9tNoL1t8=
-			</data>
-		</dict>
-		<key>Frameworks/WebRTC.framework/WebRTC</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PwJMEOes3XFDRz8PWiBPmaRk68UlJuSzAAmmWaKNsuc=
-			</data>
-		</dict>
-		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LzH35LnCaPCvXRlPHfEJCh++KvCETN0GYV1L3V8PRvo=
+			ovd21IUmYNqcno/N30xKBF/PloBuMN70h4Jqn8E0NOM=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk-Swift.h</key>
