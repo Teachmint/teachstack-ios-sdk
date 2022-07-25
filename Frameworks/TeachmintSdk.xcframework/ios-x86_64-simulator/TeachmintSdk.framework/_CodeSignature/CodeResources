@@ -6,43 +6,31 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		igy+0za2NseCuL435VYQnZ48R4U=
+		UxTeuHCQJPD+uGYR1yC7N1U5GgA=
 		</data>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<data>
-		uUKSo8UUPaORQHAvgIM1BXPQgbA=
+		e4CMNLvpymAaa6yIfuJgxMyQNDo=
 		</data>
 		<key>Headers/TeachmintSdk.h</key>
 		<data>
-		uUw6hQYwZPsD47r28mVz74VYrXc=
+		D5dg1gptLdablinGWHcwDEYz4g8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8KLDLC1PzhYjztGbGBRZDGRHSv0=
+		yTJiLJH5Mu8RACQUNoOwJDItoP4=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZcreF9ukTPf6cChJIS9iBK1P7f8=
+		dzuRaBd9M8unnpLdsTefLA5WMeQ=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		BYX37hEMeH18tvl6RVmeuM17DSk=
+		m8MBPAQ2cyojklyNh4DRIVYRmYg=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		75NRBuwNyCDo2fmkLlHY2XQ7QwU=
-		</data>
-		<key>Modules/TeachmintSdk.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		ZcreF9ukTPf6cChJIS9iBK1P7f8=
-		</data>
-		<key>Modules/TeachmintSdk.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		BYX37hEMeH18tvl6RVmeuM17DSk=
-		</data>
-		<key>Modules/TeachmintSdk.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		75NRBuwNyCDo2fmkLlHY2XQ7QwU=
+		VoJsVZwzmGEL8yuBcbd60j9O0js=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -52,7 +40,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			z68OL3C3pGg1IhNwk5ioUSHUavU=
+			59DM81mEVN1vXQvIEBXaKCq4njw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -64,63 +52,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qKOD/QCXSV1gis7IYBznV9BijLv6aqRH/adc8Mz2MeY=
+			ppC8sBZiWlqgTn2v2Pg0JD89cyVSncs7f4vOwzLu974=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RneKjJBSTYQmukReZZcwYMXnMugr12Uqt8cChhwsg4o=
+			QcSrHVaVtrHfOKlOsXrhIQJnnw/KrnvGo/bbUFTEvag=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sj7NK20SJLJp4GyDNtLdgqXn3GyzBH7mw+ay0CuJ/Lo=
+			psWH/uF2e5RbjQhlEbGKkvBD0P6VBGwLVBt99nBUKvU=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UdAR4ZaoqGTlyrRKv0nrZ1QNjyXE3UdpL8uw5xgqqFs=
+			fcavYyDYiOw07Gxm4Aj7AYlkXQG0CQehUkbaLfDD17A=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c+YwSrXueU2/t7H9I9S5cngmvFM2EaKV/AGBTvtTURc=
+			gyR2rNiHWnoh/pAdiszWWIWusnZ3gBbrhHLo4wEsZYY=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cWM801Ww/hvlQYrbrO6S2wmq4he1dXVxn9nijBjT8Ps=
-			</data>
-		</dict>
-		<key>Modules/TeachmintSdk.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UdAR4ZaoqGTlyrRKv0nrZ1QNjyXE3UdpL8uw5xgqqFs=
-			</data>
-		</dict>
-		<key>Modules/TeachmintSdk.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			c+YwSrXueU2/t7H9I9S5cngmvFM2EaKV/AGBTvtTURc=
-			</data>
-		</dict>
-		<key>Modules/TeachmintSdk.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cWM801Ww/hvlQYrbrO6S2wmq4he1dXVxn9nijBjT8Ps=
+			IRo2o+5OLtgM7fN5SZC2sDWv+jy0OGJSdd5xSPiYSL4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -134,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uQyCxcCx4n/wvace+xa/nIBjccaikGyUoajVKlfChhk=
+			wu+uIznPpXvM4ntPa1bM5h3o3HMFFp70bQvh9EFC5MY=
 			</data>
 			<key>optional</key>
 			<true/>
