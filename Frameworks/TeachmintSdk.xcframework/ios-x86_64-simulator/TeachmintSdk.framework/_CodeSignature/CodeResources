@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		UxTeuHCQJPD+uGYR1yC7N1U5GgA=
+		B+50yawTgJ8z+1rz+9MuqBvJtLI=
 		</data>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<data>
-		e4CMNLvpymAaa6yIfuJgxMyQNDo=
+		+Khyrlb11MpGutLPvPmFW9d883s=
 		</data>
 		<key>Headers/TeachmintSdk.h</key>
 		<data>
@@ -18,7 +18,67 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yTJiLJH5Mu8RACQUNoOwJDItoP4=
+		pgukoJmu01HiTBnArL/d/QwPvp0=
+		</data>
+		<key>Lato/FjallaOne-Regular.ttf</key>
+		<data>
+		lOUVWPVvYzBmi6Y5fkHNr0QZn34=
+		</data>
+		<key>Lato/Lato-Black.ttf</key>
+		<data>
+		X9NSVd/TixecgNtC4bnUCw0F4LM=
+		</data>
+		<key>Lato/Lato-BlackItalic.ttf</key>
+		<data>
+		G9TZ++qmBZsW+R9hlfT8hJqFJxI=
+		</data>
+		<key>Lato/Lato-Bold.ttf</key>
+		<data>
+		1n/uCMeags43WrlimuWpA9qLsyE=
+		</data>
+		<key>Lato/Lato-BoldItalic.ttf</key>
+		<data>
+		K/G1DJshc5RK7AZi0WcB8JZEQPI=
+		</data>
+		<key>Lato/Lato-Italic.ttf</key>
+		<data>
+		6/AGYCvPwEZ9KXNf3zSBu2Ehhg4=
+		</data>
+		<key>Lato/Lato-Light.ttf</key>
+		<data>
+		4BMv61FP6zzbdF1HnHHe5irTd1c=
+		</data>
+		<key>Lato/Lato-LightItalic.ttf</key>
+		<data>
+		HQysp9ItBLxrhNZ5N0mKG+BM7t0=
+		</data>
+		<key>Lato/Lato-Medium.ttf</key>
+		<data>
+		x46Ut8wLeC7vT58r43HDz5w/bq8=
+		</data>
+		<key>Lato/Lato-Regular.ttf</key>
+		<data>
+		g9xZIXYafD0e57rbo/x+Hh9e2AM=
+		</data>
+		<key>Lato/Lato-Thin.ttf</key>
+		<data>
+		fnUBQLUPfyxwXPL2fFWfLCZwlsc=
+		</data>
+		<key>Lato/Lato-ThinItalic.ttf</key>
+		<data>
+		Ff4PaB2cpnkHSt0Fwo4ImdSdjcQ=
+		</data>
+		<key>Lato/OFL.txt</key>
+		<data>
+		3O0aQZSOmWj5Amy8fdq7+I5lQjs=
+		</data>
+		<key>Lato/latosemibold.ttf</key>
+		<data>
+		bK4tBnv2OHPNoFGGdGpwTu3ozAA=
+		</data>
+		<key>Lato/poppins_bold.ttf</key>
+		<data>
+		RdwoxCXD7iI3RAv5y5JnU8WqO1w=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +90,7 @@
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VoJsVZwzmGEL8yuBcbd60j9O0js=
+		xmWCNNVOHZNF6q9CvuEL/ZR/HQ4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -40,7 +100,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			59DM81mEVN1vXQvIEBXaKCq4njw=
+			NQX49OKrDdSVdRPC+8cLlCqu3qE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -52,14 +112,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ppC8sBZiWlqgTn2v2Pg0JD89cyVSncs7f4vOwzLu974=
+			SH3q8eggxKMY+Gfno+bfWFVgsOYTNxG1z4lRgPaLDE4=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QcSrHVaVtrHfOKlOsXrhIQJnnw/KrnvGo/bbUFTEvag=
+			zdzQEAFr4hs1q9ESlIvP41MuNlPAP5JNVnwRDlOWems=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk.h</key>
@@ -67,6 +127,111 @@
 			<key>hash2</key>
 			<data>
 			psWH/uF2e5RbjQhlEbGKkvBD0P6VBGwLVBt99nBUKvU=
+			</data>
+		</dict>
+		<key>Lato/FjallaOne-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LjH7elrheJ6/y0gCJP7Rkcx+vwezB3CYLdwYEJ0cTOo=
+			</data>
+		</dict>
+		<key>Lato/Lato-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iUTaWoYezgAYX6Fz6mUyTn1Hl6qGPG+g8D4GaAWXS2w=
+			</data>
+		</dict>
+		<key>Lato/Lato-BlackItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G7asNGubFS+gk9VAMO/NBz4o5R7AB8+3bCAflv103mc=
+			</data>
+		</dict>
+		<key>Lato/Lato-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e3IFmfiu07rFuVMf7PZ1DI+n5ZO3J3ObwGkvzA9Vtng=
+			</data>
+		</dict>
+		<key>Lato/Lato-BoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YQBGg2TfbTRwmpH9kzxJwAiv+khrWjXnlvoDQVkeifs=
+			</data>
+		</dict>
+		<key>Lato/Lato-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EYyPT6YKx0q7iZliMRzxV4Gqurs2NCJdG4+In6Fv0CY=
+			</data>
+		</dict>
+		<key>Lato/Lato-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jxhuV/5EDFwBASDHVJRKnVsz5hLDoxHdZCQ1EZqvz3A=
+			</data>
+		</dict>
+		<key>Lato/Lato-LightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1cXXMinKYJiOt+RG8jH8iMIx7CbKTpclNbwnGDR4q/o=
+			</data>
+		</dict>
+		<key>Lato/Lato-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vou/cQVQDo/B+UKTB/s5aQWg5s/2P+HrdRuzGdDxsNs=
+			</data>
+		</dict>
+		<key>Lato/Lato-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6ol5wizx2DDj/5OardScxNeMhR48tZ0qqV6hDudS1dE=
+			</data>
+		</dict>
+		<key>Lato/Lato-Thin.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KGklvB/YV4pxGh4gnguz4+iDtzANt/jTM1Ykrq9xt3g=
+			</data>
+		</dict>
+		<key>Lato/Lato-ThinItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JBl3YGG6iz6fTmyFOXNeVA34SBhtOKOl0AESn8UxQCI=
+			</data>
+		</dict>
+		<key>Lato/OFL.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FLhgn9goHLlhcw3n07KWTcxuDjledZsUIuUuOaD9xrI=
+			</data>
+		</dict>
+		<key>Lato/latosemibold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2rqX6sXz6VFZ7LIyZKfLnDcZubyakaX78SG6RjZmHrU=
+			</data>
+		</dict>
+		<key>Lato/poppins_bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uLkkJKz9lYHJ3XRyOlYntqWIKmQ7IUi9BGPpzQd9Nyg=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -87,7 +252,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IRo2o+5OLtgM7fN5SZC2sDWv+jy0OGJSdd5xSPiYSL4=
+			fj87pO54XRqM5Fy/18W/ql5JpbcU/us+NMnPk3wRbLM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -101,7 +266,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wu+uIznPpXvM4ntPa1bM5h3o3HMFFp70bQvh9EFC5MY=
+			IqfI2QB0wS/e3z5GonQRWUYfKGOS1QFgdUEm8Fz39cA=
 			</data>
 			<key>optional</key>
 			<true/>
