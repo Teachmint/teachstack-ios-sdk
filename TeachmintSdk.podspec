@@ -1,10 +1,10 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "TeachmintSdk"
-  spec.version      = "1.2.1"
-  spec.summary      = "TeachmintSdk to give video conferencing support"
+  spec.version      = "1.3.0"
+  spec.summary      = "TeachmintSdk gives video conferencing support"
   spec.description  = <<-DESC
-Teachmint-ios-sdk gives video conferencing support to the app.
+Teachmint-ios-sdk gives video conferencing support.
                    DESC
 
   spec.homepage     = "https://www.teachmint.com/teachstack"
