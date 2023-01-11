@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		0gFfF7qofnWZ5JbODREcz+f0iBc=
+		igu4oiBHuwo5wqK+Yo1Kg+jFLNw=
 		</data>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		m8MBPAQ2cyojklyNh4DRIVYRmYg=
+		YNtKYVZqxIij3VlbtYMt6rYoyBw=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3Sc5caABlmCzEjuQ1t9TEvamTes=
+		5vcmiFFgm3iuaR6yH9scmVwa8fk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KND6PIrHMRYEZqiaGJRSekR/lv0khCQNgi5amLJaXqw=
+			BSl13Qrx09vRiSavTC0hj/8/+cHMNTxWdnOQqN8rBZI=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk-Swift.h</key>
@@ -245,14 +245,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gyR2rNiHWnoh/pAdiszWWIWusnZ3gBbrhHLo4wEsZYY=
+			+y3km642m4jfBvus3OAIFRQWsppAyLCgNtxybGcMmwY=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+zh5ksyZCQNe26X7wYWG8b2WpDTUE0cre0TMWpyCd6g=
+			E4vyp4GUriU2GaDmhsltF/W2DkNXfLlFMHmC8Lhsi+0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

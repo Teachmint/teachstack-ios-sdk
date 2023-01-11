@@ -19,7 +19,7 @@ import VideoToolbox
 import WebRTC
 import _AVKit_SwiftUI
 import _Concurrency
-public protocol TeachmintRoomViewDelegate {
+public protocol TeachmintRoomViewDelegate : AnyObject {
   func onMeetingEnded(reason: Swift.String, recording: Swift.Bool, study_material: Swift.Bool, session_id: Swift.String?)
   func trackEvent(eventName: Swift.String, eventData: [Swift.String : Swift.String])
 }
