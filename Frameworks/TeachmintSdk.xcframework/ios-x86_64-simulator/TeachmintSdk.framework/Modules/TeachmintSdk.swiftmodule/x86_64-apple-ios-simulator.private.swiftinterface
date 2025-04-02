@@ -1,11 +1,13 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
-// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name TeachmintSdk
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name TeachmintSdk
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
+import AVKit
 import CallKit
 import Combine
 import CoreMedia
+import DeveloperToolsSupport
 import Foundation
 import MobileCoreServices
 import Network
@@ -21,13 +23,14 @@ import WebRTC
 import _AVKit_SwiftUI
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 public protocol TeachmintRoomViewDelegate : AnyObject {
   func onMeetingEnded(reason: Swift.String, recording: Swift.Bool, study_material: Swift.Bool, session_id: Swift.String?)
   func trackEvent(eventName: Swift.String, eventData: [Swift.String : Swift.String])
 }
-public struct TMEvaasBuilder : SwiftUI.View {
-  public init(delegate: TeachmintSdk.TeachmintRoomViewDelegate?, suiteName: Swift.String?, url: Swift.String, language: Swift.String, host: Swift.String? = nil, preferred_extension: Swift.String? = nil)
-  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+@_Concurrency.MainActor @preconcurrency public struct TMEvaasBuilder : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(delegate: (any TeachmintSdk.TeachmintRoomViewDelegate)?, suiteName: Swift.String?, url: Swift.String, language: Swift.String, host: Swift.String? = nil, preferred_extension: Swift.String? = nil)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
     get
   }
   public typealias Body = @_opaqueReturnTypeOf("$s12TeachmintSdk14TMEvaasBuilderV4bodyQrvp", 0) __
@@ -39,3 +42,4 @@ final public class screenShareBuilder {
   final public func processBuffer(_ sampleBuffer: CoreMedia.CMSampleBuffer, with sampleBufferType: ReplayKit.RPSampleBufferType)
   @objc deinit
 }
+extension TeachmintSdk.TMEvaasBuilder : Swift.Sendable {}

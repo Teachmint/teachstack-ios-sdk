@@ -1,7 +1,7 @@
 framework module TeachmintSdk {
   umbrella header "TeachmintSdk.h"
-
   export *
+
   module * { export * }
 }
 
