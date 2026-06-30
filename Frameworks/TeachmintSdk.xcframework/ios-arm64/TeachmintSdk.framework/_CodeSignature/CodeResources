@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		BufGJIAtOcLeVxtM0sWirCK8+vY=
+		ZC3H0lPVilPy7r02Lr33ETpSRCc=
 		</data>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<data>
-		M3V6oRIGDKydOLSloGlowjdfrno=
+		x6gkDtLvjEaoj31n1XmP1aq8NjU=
 		</data>
 		<key>Headers/TeachmintSdk.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		x15MvT7tSyj/2Jlxa1soZPwcszA=
+		kQqGCeX+dZC9Os6j8WKsjRJvmZU=
 		</data>
 		<key>Lato/FjallaOne-Regular.ttf</key>
 		<data>
@@ -80,35 +80,39 @@
 		<data>
 		RdwoxCXD7iI3RAv5y5JnU8WqO1w=
 		</data>
+		<key>Modules/TeachmintSdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		e7zkKzQRslbp2q0kM+d2OUTWojw=
+		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		sG/D/qr0Rhs2cxszSkrMT0rFFyE=
+		XVqojCXmadNQQDRYqlMr1Ex5DI4=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		kUl4s054ts4mG9xdSlxI/41h+KE=
+		kXv9oKXtvTM7BxKCnP2RTZSR9EA=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		1zed540/BMDw9I35WO90aQtNHKM=
+		HQKfXYI0YlW4/TxxxPhAQERB64Y=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		kUl4s054ts4mG9xdSlxI/41h+KE=
+		kXv9oKXtvTM7BxKCnP2RTZSR9EA=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		oR2c1oMAMI9elvmuLJw3kKbvDL4=
+		qV1cj12+UfHYIn80n5PSyA6jCrc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		jqLc045qLCDrvMVXBqSf92cA9wI=
+		ctNm9sXU7vshehsifeM4twhri0M=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qsds1imyXPFe6ZdAmLNmhOPLiL8=
+			ChLNsBOIu7GtFh3zkbqgVWKB6dw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -120,14 +124,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1+uRi/FT7yNJVqki6CwowHlzw87TCoDZCMOVKs3e3L4=
+			P2xpJR+Llxz7pBJnR6vwSKeu13gcn8vhdS3mjt2rObc=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nyIHLSXswUoBnUC/eXt/hn15FZoboBf68JEavB5+x2Q=
+			Lr02q/ZhVYA4j5a3ELWr0EAi81+pRTyAwo0xd2Npt8I=
 			</data>
 		</dict>
 		<key>Headers/TeachmintSdk.h</key>
@@ -242,53 +246,60 @@
 			uLkkJKz9lYHJ3XRyOlYntqWIKmQ7IUi9BGPpzQd9Nyg=
 			</data>
 		</dict>
+		<key>Modules/TeachmintSdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RPa1SUeITq+uFwUm5Wb8vb5hJoknM0ndq2RqmnTllmI=
+			</data>
+		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RzUVFejcI2YAc40U/Jju2y19xE+tU5ckDhCPEg4QAw8=
+			5FKHi0CV6r7Bola3W3OOvY8gCUsdTxgUywgNMLFRH1A=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BTIKCFRBPmh1U78cZwL8rk5hLK5tnWap7yAHUJGmkxs=
+			is8bYq6ZGjxgmncg0HsJwNCI10lrEhgtGvr9/FYhdeU=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BeRAk4NfEt2WMk2C+bgRlYe74o13qMNurTVu+Bjdgkk=
+			r54D+D74y4QLxgV0c+dXhO2U6HskhIY4mm2sup+lLS8=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BTIKCFRBPmh1U78cZwL8rk5hLK5tnWap7yAHUJGmkxs=
+			is8bYq6ZGjxgmncg0HsJwNCI10lrEhgtGvr9/FYhdeU=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gWREBqc5mBUynzC8DdnMA+gRe8bczk5nsaDAHtfwypA=
+			9vuyV5NBsjbQh/t3sSgRft1WpU+18wSDKJeDTjVTUmY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1IS7VCAse5/uKa0Shwesw+XfYsLjwr/NItQORQKKef0=
+			LFXqIMhqa1iVaIjgo7IJLhw4+qMWm09/2Bfbt+tzuoQ=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bQFvmBE8womk9bovspdZ9wkeH7YCSc2zE4c+EP6uYJg=
+			iZKr44PHCzPjN41cYsebog5mk/2BXjHv6pbEbgjPzxY=
 			</data>
 			<key>optional</key>
 			<true/>

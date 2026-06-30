@@ -7,5 +7,4 @@ framework module TeachmintSdk {
 
 module TeachmintSdk.Swift {
   header "TeachmintSdk-Swift.h"
-  requires objc
 }
