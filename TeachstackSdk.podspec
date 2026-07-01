@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "TeachstackSdk"
-  spec.version      = "1.3.6"
+  spec.version      = "1.3.7"
   spec.summary      = "TeachstackSdk gives video conferencing support"
   spec.description  = <<-DESC
 TeachstackSdk gives video conferencing support.
@@ -20,7 +20,7 @@ TeachstackSdk gives video conferencing support.
 
   spec.source        = {
     :git => "https://github.com/Teachmint/teachstack-ios-sdk.git",
-    :tag => "#{spec.version}"
+    :tag => "qa-1.3.7"
   }
 
   spec.vendored_frameworks = 'Frameworks/TeachmintSdk.xcframework', 'Frameworks/WebRTC.xcframework'
