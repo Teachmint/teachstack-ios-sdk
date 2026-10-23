@@ -5156,154 +5156,168 @@
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4893,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
-      "kind": "Array",
-      "offset": 4947,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4981,
+      "offset": 5060,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5022,
+      "offset": 5302,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
+      "kind": "Array",
+      "offset": 5491,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5526,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5567,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5142,
+      "offset": 5687,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5058,
+      "offset": 5603,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5332,
+      "offset": 5877,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5248,
+      "offset": 5793,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5673,
+      "offset": 6218,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5677,
+      "offset": 6222,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5890,
+      "offset": 6435,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5925,
+      "offset": 6470,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6016,
+      "offset": 6561,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6108,
+      "offset": 6653,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6527,
+      "offset": 7072,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6602,
+      "offset": 7147,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6855,
+      "offset": 7400,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13779,
+      "offset": 8081,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15002,
+      "offset": 14422,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18572,
+      "offset": 15645,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19215,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18592,
+      "offset": 19235,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/ViewModels\/EvaasViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 26427,
+      "offset": 27030,
       "length": 5,
       "value": "false"
     },
@@ -6955,35 +6969,35 @@
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/Views\/TMEvaasPreview\/ViewModel\/LiveClassPreviewViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2327,
+      "offset": 2429,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/Views\/TMEvaasPreview\/ViewModel\/LiveClassPreviewViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2359,
+      "offset": 2461,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/Views\/TMEvaasPreview\/ViewModel\/LiveClassPreviewViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2400,
+      "offset": 2502,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/Views\/TMEvaasPreview\/ViewModel\/LiveClassPreviewViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2445,
+      "offset": 2547,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anishkumar\/Documents\/iosSdks\/ios-sdk-vc\/TeachmintSdk\/TMEvaasBuilder\/Views\/TMEvaasPreview\/ViewModel\/LiveClassPreviewViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6695,
+      "offset": 7074,
       "length": 4,
       "value": "true"
     },
@@ -7100,847 +7114,847 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 729,
       "length": 10,
       "value": "\"Chatroom\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 860,
       "length": 8,
       "value": "\"Mic_on\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 986,
       "length": 6,
       "value": "\"More\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1122,
       "length": 12,
       "value": "\"PollLoader\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1252,
       "length": 6,
       "value": "\"Send\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1401,
       "length": 19,
       "value": "\"Sheet_AttachFiles\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1563,
       "length": 19,
       "value": "\"Sheet_screenShare\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1723,
       "length": 18,
       "value": "\"Sheet_whiteboard\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1861,
       "length": 7,
       "value": "\"arrow\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1996,
       "length": 11,
       "value": "\"attendees\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2148,
       "length": 18,
       "value": "\"attendees_filled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2295,
       "length": 12,
       "value": "\"audio_only\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2425,
       "length": 6,
       "value": "\"back\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2553,
       "length": 8,
       "value": "\"bronze\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2686,
       "length": 10,
       "value": "\"bs_close\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2830,
       "length": 15,
       "value": "\"bs_hand_raise\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2968,
       "length": 9,
       "value": "\"bs_poll\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3113,
       "length": 16,
       "value": "\"bs_poll_filled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3256,
       "length": 11,
       "value": "\"bs_search\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3392,
       "length": 10,
       "value": "\"bs_share\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3537,
       "length": 15,
       "value": "\"camera_rotate\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3689,
       "length": 16,
       "value": "\"cannot_present\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3823,
       "length": 6,
       "value": "\"chat\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3964,
       "length": 15,
       "value": "\"chat_disabled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4112,
       "length": 14,
       "value": "\"chat_enabled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4259,
       "length": 14,
       "value": "\"check_circle\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4395,
       "length": 8,
       "value": "\"cohost\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4536,
       "length": 14,
       "value": "\"error_filled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4679,
       "length": 12,
       "value": "\"exit_board\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4822,
       "length": 13,
       "value": "\"exit_button\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4953,
       "length": 6,
       "value": "\"gold\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5094,
       "length": 15,
       "value": "\"hand_disabled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5236,
       "length": 11,
       "value": "\"hand_drop\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5376,
       "length": 12,
       "value": "\"hand_raise\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5517,
       "length": 12,
       "value": "\"ic_youtube\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5671,
       "length": 19,
       "value": "\"join_as_coteacher\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5817,
       "length": 11,
       "value": "\"live_poll\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5972,
       "length": 20,
       "value": "\"live_poll_settings\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6128,
       "length": 16,
       "value": "\"lower_all_hand\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6260,
       "length": 5,
       "value": "\"mic\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6398,
       "length": 14,
       "value": "\"mic_disabled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6543,
       "length": 13,
       "value": "\"mic_enabled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6679,
       "length": 9,
       "value": "\"mic_off\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6824,
       "length": 16,
       "value": "\"mic_off_filled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6974,
       "length": 15,
       "value": "\"mic_on_filled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7125,
       "length": 16,
       "value": "\"more_user_tile\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7265,
       "length": 9,
       "value": "\"muteAll\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7403,
       "length": 12,
       "value": "\"no_results\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7564,
       "length": 22,
       "value": "\"otherActivities_hide\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7735,
       "length": 22,
       "value": "\"otherActivities_show\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7886,
       "length": 12,
       "value": "\"pin_filled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8026,
       "length": 11,
       "value": "\"pollArrow\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8166,
       "length": 12,
       "value": "\"poll_check\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8315,
       "length": 16,
       "value": "\"poll_stopwatch\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8464,
       "length": 14,
       "value": "\"poll_warning\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8622,
       "length": 20,
       "value": "\"preview_camera_off\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8784,
       "length": 19,
       "value": "\"preview_camera_on\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8941,
       "length": 17,
       "value": "\"preview_mic_off\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9094,
       "length": 16,
       "value": "\"preview_mic_on\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9260,
       "length": 23,
       "value": "\"preview_recording_off\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9431,
       "length": 22,
       "value": "\"preview_recording_on\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9580,
       "length": 11,
       "value": "\"rec_start\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9716,
       "length": 10,
       "value": "\"rec_stop\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9860,
       "length": 14,
       "value": "\"reconnecting\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9996,
       "length": 8,
       "value": "\"redDot\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10136,
       "length": 13,
       "value": "\"reportAbuse\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10280,
       "length": 13,
       "value": "\"right_arrow\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10426,
       "length": 14,
       "value": "\"screen_start\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10571,
       "length": 13,
       "value": "\"screen_stop\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10710,
       "length": 13,
       "value": "\"share_image\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10850,
       "length": 11,
       "value": "\"share_pdf\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11009,
       "length": 22,
       "value": "\"sharing_access_start\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11177,
       "length": 21,
       "value": "\"sharing_access_stop\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11320,
       "length": 8,
       "value": "\"silver\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11453,
       "length": 10,
       "value": "\"start_WB\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11602,
       "length": 17,
       "value": "\"start_presenter\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11746,
       "length": 11,
       "value": "\"stop_poll\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11894,
       "length": 16,
       "value": "\"stop_presenter\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12032,
       "length": 8,
       "value": "\"stream\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12175,
       "length": 15,
       "value": "\"stream_paused\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12329,
       "length": 17,
       "value": "\"student_control\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12485,
       "length": 17,
       "value": "\"submit_feedback\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12650,
       "length": 22,
       "value": "\"support_and_feedback\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12796,
       "length": 9,
       "value": "\"teacher\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12929,
       "length": 9,
       "value": "\"uncheck\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13084,
       "length": 21,
       "value": "\"user_tile_presenter\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13238,
       "length": 14,
       "value": "\"vid_disabled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13383,
       "length": 13,
       "value": "\"vid_enabled\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13519,
       "length": 9,
       "value": "\"vid_off\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13649,
       "length": 8,
       "value": "\"vid_on\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13777,
       "length": 7,
       "value": "\"video\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13909,
       "length": 10,
       "value": "\"wb_arrow\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14040,
       "length": 8,
       "value": "\"wb_box\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14173,
       "length": 10,
       "value": "\"wb_clear\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14311,
       "length": 12,
       "value": "\"wb_clear_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14448,
       "length": 10,
       "value": "\"wb_close\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14578,
       "length": 10,
       "value": "\"wb_color\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14716,
       "length": 12,
       "value": "\"wb_color_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14855,
       "length": 11,
       "value": "\"wb_cursor\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14996,
       "length": 13,
       "value": "\"wb_cursor_1\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15139,
       "length": 13,
       "value": "\"wb_cursor_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15279,
       "length": 11,
       "value": "\"wb_eraser\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15420,
       "length": 13,
       "value": "\"wb_eraser_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15571,
       "length": 17,
       "value": "\"wb_eraser_click\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15725,
       "length": 16,
       "value": "\"wb_highlighter\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15881,
       "length": 18,
       "value": "\"wb_highlighter_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16022,
       "length": 9,
       "value": "\"wb_lock\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16160,
       "length": 12,
       "value": "\"wb_options\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16293,
       "length": 8,
       "value": "\"wb_pen\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16425,
       "length": 10,
       "value": "\"wb_pen_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16558,
       "length": 9,
       "value": "\"wb_redo\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16693,
       "length": 11,
       "value": "\"wb_redo_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16829,
       "length": 10,
       "value": "\"wb_saved\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16966,
       "length": 11,
       "value": "\"wb_shapes\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17107,
       "length": 13,
       "value": "\"wb_shapes_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17243,
       "length": 9,
       "value": "\"wb_undo\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17378,
       "length": 11,
       "value": "\"wb_undo_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17516,
       "length": 11,
       "value": "\"wb_unlock\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17652,
       "length": 10,
       "value": "\"wb_width\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17790,
       "length": 12,
       "value": "\"wb_width_2\""
     },
     {
-      "filePath": "\/Users\/anishkumar\/Library\/Developer\/Xcode\/DerivedData\/TeachmintSdk-eqfetgjzrggmopejsxoocattlcsr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/tmp\/claude-502\/-Users-anishkumar-Documents-kmp2\/160d604c-1ab8-4c8e-8d63-b6cd0a6ea1d4\/scratchpad\/ios139\/dd2\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TeachmintSdk\/IntermediateBuildFilesPath\/TeachmintSdk.build\/Release-iphonesimulator\/TeachmintSdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17926,
       "length": 9,
