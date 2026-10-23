@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "TeachstackSdk"
-  spec.version      = "1.3.6"
+  spec.version      = "1.3.9"
   spec.summary      = "TeachstackSdk gives video conferencing support"
   spec.description  = <<-DESC
 TeachstackSdk gives video conferencing support.
