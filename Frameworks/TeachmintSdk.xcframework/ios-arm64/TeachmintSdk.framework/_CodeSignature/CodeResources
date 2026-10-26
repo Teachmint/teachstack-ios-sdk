@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		QAsTEjx60gkC3BBniCFNY5cTQ98=
+		dAn736aYoYW2/Pw7xNPjk+XCwrg=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ugXLFIKMZdd39++XjAv/q2E3i5s=
+		CosU6uxMip/qyNYKehOJ5yZqtlo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -108,7 +108,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MhK3H21WlACySh3A7DbDYdt3NHo=
+			GAZLA+cJFNYLOFW6yV2pISIAa0E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -246,7 +246,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bmjCqwtHiK61PKVLnIqacOMo1V+jfLn+LW4CHw6fqas=
+			DymWF4By97YlPJVcppmHX+c7xGO/ca8CQ/sfo/Luzws=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -274,7 +274,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZG07gwQhofLUXdCARYuIl0xZqU+u9BpKmiDk0DnV1Oc=
+			3cNx9Dol+GHJT5pQto7cBuzicVrHpDtQYbvKnF/EvbA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -288,7 +288,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o+vvy/m+MAIs9l6Z5QcjU77KlRebGd5JZGwM8lVUo7s=
+			K2umNRqxCJ351hfh7pwaCg4Qvn7AMzBSfinUg7WfVNg=
 			</data>
 			<key>optional</key>
 			<true/>

@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		KlPar3KxwHGFUul+MEnKs12doRU=
+		NsAuZ7V671FJwpBZ+zIZIJ69/Nk=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WZya2HBjwTKMKKivjhcuG4Hxhhw=
+		+suN9jWNUwDshw9SUxbYQY840rM=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		KlPar3KxwHGFUul+MEnKs12doRU=
+		NsAuZ7V671FJwpBZ+zIZIJ69/Nk=
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JVV70vbuRCvR9zWHmbd42A0fo/8=
+		3Qsbdoq3uMabtBfrPjrmcB566Gk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -128,7 +128,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MhK3H21WlACySh3A7DbDYdt3NHo=
+			GAZLA+cJFNYLOFW6yV2pISIAa0E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -266,7 +266,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pev7C3Zea8TKvClcKXyor1AOSK4qdA1zajas1O3JS+Y=
+			X3JLHuhn102gRTJ9RC/kCUyqL8QYXhIQ9HfyDJGP+e0=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -294,14 +294,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NLZeosVs6t4oDfoysfRhkdplv1YuVFeCB22IIfq/0TY=
+			Gb8Ec/Y/qU3jTJKMY+s9rOJkyz2QsVD87Bky5TEejKA=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pev7C3Zea8TKvClcKXyor1AOSK4qdA1zajas1O3JS+Y=
+			X3JLHuhn102gRTJ9RC/kCUyqL8QYXhIQ9HfyDJGP+e0=
 			</data>
 		</dict>
 		<key>Modules/TeachmintSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -329,7 +329,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iU4Pm4HzKPG9heI0TShaioUIBvSMpUYxMQ09BNwRddw=
+			N1+7mC5XpJyUDIJ8fY8p6kFxSXbsU/sc6CgxY8TBqMA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -343,7 +343,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o+vvy/m+MAIs9l6Z5QcjU77KlRebGd5JZGwM8lVUo7s=
+			K2umNRqxCJ351hfh7pwaCg4Qvn7AMzBSfinUg7WfVNg=
 			</data>
 			<key>optional</key>
 			<true/>
